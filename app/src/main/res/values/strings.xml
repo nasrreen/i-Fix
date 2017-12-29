@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I-Fix</string>
+    <string name="activity_about_us">About Us</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
